@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ЦФТ-тест</string>
+    <string name="history_button_text">История</string>
+    <string name="search_button_text">Данные карты</string>
+    <string name="search_placeholder_text">Номер карты</string>
+
+    <string name="error">Ошибка:</string>
+    <string name="error_404">Карта отсутствует в базе</string>
+    <string name="error_400">Отсутствует интернет</string>
+    <string name="error_unknown_host">Отсутствует интернет</string>
+    <string name="archive_title">Архив просмотренных данных:</string>
+    <string name="zero_length">Необходимо ввести номер карты</string>
+    <string name="short_length">Необходимо ввести не менее 4 цифр</string>
+
+    <string name="permission_title">Для корректной работы программы необходимо дать соответствующие разрешения</string>
+    <string name="permission_cancelled">Выйти из программы</string>
+    <string name="permission_call_phone">Звонок по телефону</string>
+
+    <string name="scheme_network">Scheme/Network:</string>
+    <string name="brand">Brand:</string>
+    <string name="card_number">Card number:</string>
+    <string name="length">Length:</string>
+    <string name="luhn">Luhn:</string>
+    <string name="type">Type:</string>
+    <string name="predaid">Prepaid:</string>
+    <string name="country">Country:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="bank">Bank:</string>
+    <string name="www">WWW:</string>
+    <string name="phone">Phone:</string>
+
+</resources>
